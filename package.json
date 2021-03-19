@@ -35,8 +35,8 @@
   },
   "homepage": "https://github.com/souporserious/react-motion-ui-pack",
   "peerDependencies": {
-    "react": "0.14.x || ^15.0.0",
-    "react-dom": "0.14.x || ^15.0.0"
+    "react": "0.14.x || ^16.14.0",
+    "react-dom": "0.14.x || ^16.14.0"
   },
   "dependencies": {
     "get-prefix": "^1.0.0",
